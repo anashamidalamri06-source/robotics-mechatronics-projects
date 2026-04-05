@@ -71,5 +71,5 @@ git clone https://github.com/anashamidalamri06-source/robotics-mechatronics-proj
 ---
 
 ## 📬 Contact
-Anas — Mechatronics & Robotics Engineer
+Anas Hamid — Mechatronics & Robotics Engineer
 GitHub: anashamidalamri06-source
